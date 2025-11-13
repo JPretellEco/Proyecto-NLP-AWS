@@ -114,8 +114,6 @@ Estudiante de Economía, Ciencia de Datos y Big Data
 Apasionado por la estadística, la programación y la inteligencia artificial aplicada a problemas reales.
 
 📍 *Perú*
-📧 [Tu correo o LinkedIn opcional]
+📧 jpretell66@gmail.com
 
 ---
-
-¿Quieres que te agregue también un bloque de ejemplo de código (por ejemplo, cómo instanciar el modelo y entrenarlo) al final del README para hacerlo más completo? Puedo incluirlo con formato Markdown listo para GitHub.
