@@ -1,5 +1,3 @@
----
-
 # 🎬 SentimentScope: Análisis de Sentimientos con Transformers en Reseñas de IMDB
 
 ## 🧠 Introducción al Proyecto
